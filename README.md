@@ -17,4 +17,6 @@ https://public.tableau.com/app/profile/pallav.shukla
 
 please check the dashboard from the above link
 
-The exact particular one is listed below:
+The exact particular one is listed below: 
+
+https://public.tableau.com/views/Covid19_India_Data_Analysis/Dashboard12?:language=en-US&:display_count=n&:origin=viz_share_link
